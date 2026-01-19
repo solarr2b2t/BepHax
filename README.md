@@ -1,3 +1,4 @@
+since dekto has turned into a silly mason JEW, and started selling this meteor skid, this is getting uploaded (its all skidded code so its not much use anyways) 
 # BepHax Meteor Addon
 
 [![GitHub Release](https://img.shields.io/github/v/release/dekrom/BepHaxAddon?include_prereleases&label=Latest%20Release)](https://github.com/dekrom/BepHaxAddon/releases)
