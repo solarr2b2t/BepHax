@@ -1,16 +1,16 @@
 since dekto has turned into a silly mason JEW, and started selling this meteor skid, this is getting uploaded (its all skidded code so its not much use anyways) 
 # BepHax Meteor Addon
 
-[![GitHub Release](https://img.shields.io/github/v/release/dekrom/BepHaxAddon?include_prereleases&label=Latest%20Release)](https://github.com/dekrom/BepHaxAddon/releases)
-[![GitHub License](https://img.shields.io/github/license/dekrom/BepHaxAddon)](https://github.com/dekrom/BepHaxAddon/blob/main/LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/dekrom/BepHaxAddon)](https://github.com/dekrom/BepHaxAddon/issues)
+[![GitHub Release](https://img.shields.io/github/v/release/solarr2b2t/BepHax?include_prereleases&label=Latest%20Release)](https://github.com/solarr2b2t/BepHax/releases)
+[![GitHub License](https://img.shields.io/github/license/solarr2b2t/BepHax)](https://github.com/solarr2b2t/BepHax/blob/main/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/solarr2b2t/BepHax)](https://github.com/solarr2b2t/BepHax/issues)
 [![Discord](https://img.shields.io/discord/658535415548084245?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/EGEhHNSkV8)
 
 A comprehensive Meteor Client addon with **76 modules** designed for 2b2t.org and anarchy servers. Combines community favorites with custom enhancements, advanced combat features, automated stash hunting, and extensive quality-of-life improvements.
 
 ## Installation
 
-1. Download the latest JAR from [Releases](https://github.com/dekrom/BepHaxAddon/releases)
+1. Download the latest JAR from [Releases](https://github.com/solarr2b2t/BepHax/releases)
 2. Place in `~/.minecraft/mods` folder
 3. Launch Minecraft with Fabric and Meteor Client
 4. Access modules via Meteor GUI (Right Shift)
