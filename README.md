@@ -311,8 +311,7 @@ Open an [issue](https://github.com/dekrom/BepHaxAddon/issues) or submit a pull r
 
 ## Community
 
-- **Discord**: [discord.gg/EGEhHNSkV8](https://discord.gg/EGEhHNSkV8)
-- **GitHub**: [github.com/dekrom/BepHaxAddon](https://github.com/dekrom/BepHaxAddon)
+- **GitHub**: [github.com/dekrom/BepHaxAddon](https://github.com/solarr2b2t/BepHax)
 
 ## License
 
